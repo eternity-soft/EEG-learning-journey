@@ -21,3 +21,13 @@
 - 笔记是学习过程中的阶段性理解，可能存在错误，欢迎交流与指正。
 
 持续学习，持续记录。
+
+## 仓库目录
+
+| 目录 | 内容 |
+| --- | --- |
+| [notes](notes/) | 基础知识与模型学习笔记 |
+| [papers](papers/) | 论文阅读笔记 |
+| [experiments](experiments/) | 实验设置、结果和分析 |
+| [code](code/) | 代码实践 |
+| [learning-log](learning-log/) | 阶段性学习日志 |
