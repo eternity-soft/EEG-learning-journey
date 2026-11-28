@@ -1,7 +1,5 @@
 # 学习笔记
 
-记录 EEG / BCI 基础知识、深度学习方法和模型理解。
+这里记录我学习 EEG、深度学习和模型时的理解。
 
-关于我在学习过程中的理解。
-
-- [EEGNet 学习笔记：从脑电输入到三分类](EEGNet-pytorch-learning.md)
+- [EEGNet 学习笔记](EEGNet-pytorch-learning.md)
